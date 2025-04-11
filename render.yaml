@@ -5,7 +5,7 @@ services:
     env: python
     region: frankfurt  # Changer selon votre région préférée
     plan: free  # Utiliser free pour les tests, changer pour paid en production
-    buildCommand: pip install -r server/fastapi/production_requirements.txt && chmod +x render_start.sh
+    buildCommand: pip install -r server/fastapi/production_requirements.txt && chmod +x ./start_production.sh
     startCommand: ./start_production.sh
     envVars:
       - key: PYTHON_VERSION
