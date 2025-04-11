@@ -101,7 +101,7 @@ export default function ModelPreview() {
 
         <div className="bg-gradient-to-r from-primary-500 to-secondary-600 text-white rounded-lg p-4">
           <div className="text-sm font-medium mb-2">Version actuelle</div>
-          <div className="text-xl font-semibold">model_lucien_v1.pkl</div>
+          <div className="text-xl font-semibold">model_groupe2_ai.pkl</div>
         </div>
       </div>
     </div>
