@@ -29,6 +29,8 @@ Une application médicale élégante qui prédit les stades de l'Insuffisance R�
 ├── shared               # Types et schémas partagés
 ├── build.sh             # Script de build pour la production
 └── start_production.sh  # Script de démarrage en production
+├── L'API déployé sur RailWay via Docker : https://nephropredict-api-production-d81e.up.railway.app/docs            
+└──   # Script de démarrage en production
 ```
 
 ## Prérequis
