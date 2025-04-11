@@ -126,7 +126,11 @@ Une application médicale élégante qui prédit les stades de l'Insuffisance R�
 
 ## Utilisation de l'API
 
-L'API est disponible à l'adresse: `http://your-server:8000/`
+L'API est disponible à l'adresse: `[api](https://nephropredict-api-production-d81e.up.railway.app/)`
+
+
+Le site Web à l'adresse: `[frontend](https://nephropredictv2.onrender.com/)`
+
 
 ### Endpoints principaux:
 
